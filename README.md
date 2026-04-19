@@ -23,6 +23,7 @@ DSA Daily – Consistent Problem Solving Journey   A repository dedicated to my 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/akshayabhamandlapally16-prog/DSA_daily_consistent/tree/master/0189-rotate-array) |
+| [1903-largest-odd-number-in-string](https://github.com/akshayabhamandlapally16-prog/DSA_daily_consistent/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -31,4 +32,12 @@ DSA Daily – Consistent Problem Solving Journey   A repository dedicated to my 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/akshayabhamandlapally16-prog/DSA_daily_consistent/tree/master/0136-single-number) |
+## String
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/akshayabhamandlapally16-prog/DSA_daily_consistent/tree/master/1903-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/akshayabhamandlapally16-prog/DSA_daily_consistent/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
