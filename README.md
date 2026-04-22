@@ -6,6 +6,7 @@ DSA Daily – Consistent Problem Solving Journey   A repository dedicated to my 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/akshayabhamandlapally16-prog/DSA_daily_consistent/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akshayabhamandlapally16-prog/DSA_daily_consistent/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/akshayabhamandlapally16-prog/DSA_daily_consistent/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/akshayabhamandlapally16-prog/DSA_daily_consistent/tree/master/0136-single-number) |
@@ -40,4 +41,8 @@ DSA Daily – Consistent Problem Solving Journey   A repository dedicated to my 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/akshayabhamandlapally16-prog/DSA_daily_consistent/tree/master/1903-largest-odd-number-in-string) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/akshayabhamandlapally16-prog/DSA_daily_consistent/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
