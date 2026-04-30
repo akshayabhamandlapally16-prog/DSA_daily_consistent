@@ -8,6 +8,7 @@ DSA Daily – Consistent Problem Solving Journey   A repository dedicated to my 
 | ------- |
 | [0001-two-sum](https://github.com/akshayabhamandlapally16-prog/DSA_daily_consistent/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akshayabhamandlapally16-prog/DSA_daily_consistent/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/akshayabhamandlapally16-prog/DSA_daily_consistent/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/akshayabhamandlapally16-prog/DSA_daily_consistent/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/akshayabhamandlapally16-prog/DSA_daily_consistent/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/akshayabhamandlapally16-prog/DSA_daily_consistent/tree/master/0189-rotate-array) |
@@ -17,6 +18,7 @@ DSA Daily – Consistent Problem Solving Journey   A repository dedicated to my 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/akshayabhamandlapally16-prog/DSA_daily_consistent/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/akshayabhamandlapally16-prog/DSA_daily_consistent/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/akshayabhamandlapally16-prog/DSA_daily_consistent/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/akshayabhamandlapally16-prog/DSA_daily_consistent/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/akshayabhamandlapally16-prog/DSA_daily_consistent/tree/master/0283-move-zeroes) |
@@ -28,6 +30,7 @@ DSA Daily – Consistent Problem Solving Journey   A repository dedicated to my 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/akshayabhamandlapally16-prog/DSA_daily_consistent/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/akshayabhamandlapally16-prog/DSA_daily_consistent/tree/master/0088-merge-sorted-array) |
 ## Bit Manipulation
 |  |
